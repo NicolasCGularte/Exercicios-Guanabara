@@ -1,1 +1,1 @@
-# Exercicios-Guanabara
+# Logica_de_programacao_Senac
